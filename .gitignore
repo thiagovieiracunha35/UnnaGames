@@ -1,0 +1,4 @@
+﻿# Só mantém documentação no git; o .nro vai nas Releases do GitHub.
+*
+!README.md
+!.gitignore
