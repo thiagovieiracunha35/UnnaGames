@@ -20,7 +20,7 @@ Para a UnnaGames funcionar corretamente, é **obrigatório** ter o homebrew **Ti
    ```
    sdmc:/switch/UnnaGames/UnnaGames.nro
    ```
-4. Abra pelo **Homebrew Menu**.
+4. Abra pelo **SPHAIRA**.
 
 ## Versão atual
 
@@ -29,3 +29,4 @@ Veja a [última release](../../releases/latest) para versão, notas e SHA-256 do
 ## Aviso
 
 Uso por sua conta e risco. Respeite as leis da sua região.
+
