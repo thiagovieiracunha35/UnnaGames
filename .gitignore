@@ -1,4 +1,6 @@
-﻿# Só mantém documentação no git; o .nro vai nas Releases do GitHub.
+﻿# Só mantém documentação e screenshots no git; o .nro vai nas Releases do GitHub.
 *
 !README.md
 !.gitignore
+!screenshots/
+!screenshots/**
