@@ -4,21 +4,11 @@ Homebrew para Nintendo Switch (Atmosphere / Homebrew Menu).
 
 Este repositório publica **somente o `.nro` já compilado** para download. O código-fonte e o restante do ecossistema não ficam aqui.
 
-## Telas reais
+## Tela de acesso
 
 <p align="center">
-  <img src="screenshots/01-inicio.png" alt="Tela Início da UnnaGames" width="720">
-  <br><em>Início — Meus Jogos e Catálogo</em>
-</p>
-
-<p align="center">
-  <img src="screenshots/02-plataformas.png" alt="Tela de plataformas da UnnaGames" width="720">
-  <br><em>Catálogo — seleção de plataformas</em>
-</p>
-
-<p align="center">
-  <img src="screenshots/03-destino-sd-nand.png" alt="Tela de destino SD/NAND da UnnaGames" width="720">
-  <br><em>Destino de instalação — Cartão SD ou NAND</em>
+  <img src="screenshots/acesso-visitante-premium.png" alt="Tela de acesso com Modo Visitante e Membro Premium" width="960">
+  <br><em>Escolha entre Modo Visitante e Membro Premium</em>
 </p>
 
 ## Obrigatório: Tico
