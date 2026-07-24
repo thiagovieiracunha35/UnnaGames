@@ -4,22 +4,21 @@ Homebrew para Nintendo Switch (Atmosphere / Homebrew Menu).
 
 Este repositório publica **somente o `.nro` já compilado** para download. O código-fonte e o restante do ecossistema não ficam aqui.
 
-## Telas
+## Telas reais
 
 <p align="center">
-  <img src="screenshots/01-biblioteca-grade.png" alt="Biblioteca em grade com logos das plataformas" width="720">
+  <img src="screenshots/01-inicio.png" alt="Tela Início da UnnaGames" width="720">
+  <br><em>Início — Meus Jogos e Catálogo</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/02-cards-molduras.png" alt="Cards com molduras por console" width="720">
+  <img src="screenshots/02-plataformas.png" alt="Tela de plataformas da UnnaGames" width="720">
+  <br><em>Catálogo — seleção de plataformas</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/03-grade-tematica.png" alt="Grade temática por console" width="720">
-</p>
-
-<p align="center">
-  <img src="screenshots/04-logos-plataformas.png" alt="Logos das plataformas" width="720">
+  <img src="screenshots/03-destino-sd-nand.png" alt="Tela de destino SD/NAND da UnnaGames" width="720">
+  <br><em>Destino de instalação — Cartão SD ou NAND</em>
 </p>
 
 ## Obrigatório: Tico
@@ -38,7 +37,7 @@ Para a UnnaGames funcionar corretamente, é **obrigatório** ter o homebrew **Ti
    ```
    sdmc:/switch/UnnaGames/UnnaGames.nro
    ```
-4. Abra pelo **SPHAIRA**.
+4. Abra pelo **Homebrew Menu**.
 
 ## Versão atual
 
@@ -47,4 +46,3 @@ Veja a [última release](../../releases/latest) para versão, notas e SHA-256 do
 ## Aviso
 
 Uso por sua conta e risco. Respeite as leis da sua região.
-
