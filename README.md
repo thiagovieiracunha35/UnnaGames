@@ -4,6 +4,24 @@ Homebrew para Nintendo Switch (Atmosphere / Homebrew Menu).
 
 Este repositório publica **somente o `.nro` já compilado** para download. O código-fonte e o restante do ecossistema não ficam aqui.
 
+## Telas
+
+<p align="center">
+  <img src="screenshots/01-biblioteca-grade.png" alt="Biblioteca em grade com logos das plataformas" width="720">
+</p>
+
+<p align="center">
+  <img src="screenshots/02-cards-molduras.png" alt="Cards com molduras por console" width="720">
+</p>
+
+<p align="center">
+  <img src="screenshots/03-grade-tematica.png" alt="Grade temática por console" width="720">
+</p>
+
+<p align="center">
+  <img src="screenshots/04-logos-plataformas.png" alt="Logos das plataformas" width="720">
+</p>
+
 ## Obrigatório: Tico
 
 Para a UnnaGames funcionar corretamente, é **obrigatório** ter o homebrew **Tico** instalado no Switch.
