@@ -1,11 +1,10 @@
 ﻿# UnnaGames
 
 Homebrew para Nintendo Switch (Atmosphere / Homebrew Menu).
+ 
+ jogos retro 
 
-Este repositório publica **somente o `.nro` já compilado** para download. 
-
-
-## Obrigatório: Tico
+## Obrigatório: Tico frontend 
 
 Para a UnnaGames funcionar corretamente, é **obrigatório** ter o homebrew **Tico** instalado no Switch.
 
